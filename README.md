@@ -6,4 +6,4 @@
 
 <h1> Enunciado 2: <h1>
 
-![enter image description here](https://scontent-lim1-1.xx.fbcdn.net/v/t1.15752-9/316434463_848722623249668_4486629949395460783_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9A3WiI9zdlQAX8OEVWo&_nc_ht=scontent-lim1-1.xx&oh=03_AdRvBrnWucsb62ULP5vPYCutvqNCl-eBoI_avCgQf2TK5g&oe=63A7892F)
+![enter image description here](https://scontent.xx.fbcdn.net/v/t1.15752-9/316925872_1153407745300655_2174129142079486003_n.png?stp=dst-png_p403x403&_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_ohc=6CglEnA9JLkAX8OjKpY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSv0L3BUxLbvOcERrNbXxY5gTK9JVCSTaxwAgXkLLe6wQ&oe=63A77671)
